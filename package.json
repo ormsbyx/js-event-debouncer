@@ -1,0 +1,25 @@
+{
+  "name": "js-event-debouncer",
+  "version": "1.0.0",
+  "description": "Debounced named events using heirarcy of importance",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ormsbyx/js-event-debouncer.git"
+  },
+  "keywords": [
+    "javascript",
+    "browser",
+    "events",
+    "debouncer"
+  ],
+  "author": "Chris Ormsby <ormsbyx@pm.me> (http://rebelsanddevils.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ormsbyx/js-event-debouncer/issues"
+  },
+  "homepage": "https://github.com/ormsbyx/js-event-debouncer#readme"
+}
